@@ -24,7 +24,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 ### Seaborn: 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Here it was used to plot heatmap.
 
-## Conclusion:
+# Conclusion:
 
 After training the Xgboost model we were able to differentiate people with parkinson's disease from normal people using the dataset containing a range of biomedical voice measurements.
 
