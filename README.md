@@ -7,7 +7,7 @@ I have used the Oxford Parkinson's Disease Detection Dataset available on kaggle
 Information about Dataset: 
 
 Matrix column entries (attributes):
-name - ASCII subject name and recording number
+name - ASCII subject name and recording number<br>
 MDVP:Fo(Hz) - Average vocal fundamental frequency
 MDVP:Fhi(Hz) - Maximum vocal fundamental frequency
 MDVP:Flo(Hz) - Minimum vocal fundamental frequency
